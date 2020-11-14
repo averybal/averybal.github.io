@@ -13,4 +13,5 @@ I am available as a tutor for virtually every subject in the high school curricu
 
 ### Contact me
 
-[averybal@stanford.edu](mailto:averybal@stanford.edu) | (619) 312-8491
+[averybal@stanford.edu](mailto:averybal@stanford.edu)  
+(619) 312-8491
