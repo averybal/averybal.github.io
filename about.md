@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Stanford PhD Student  
+MIT AeroAstro Class of 2020
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am available as a tutor for virtually every subject in the high school curriculum and undergraduate intro-level math and physics courses. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[averybal@stanford.edu](mailto:averybal@stanford.edu)
+(619) 312-8491
