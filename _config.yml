@@ -22,8 +22,8 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram: https://www.instagram.com/avery624/
-  linkedin: https://www.linkedin.com/in/brent-alberto-avery/
+  instagram: avery624
+  linkedin: brent-alberto-avery
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: averybrental
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://averybal.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
